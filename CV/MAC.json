@@ -1,0 +1,423 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Emilio",
+      "surnames": "Domínguez Sánchez",
+      "title": "",
+      "description": "Soy un entusiasta de las nuevas tecnologías, estoy siempre dipuesto a aprender y a afrontar nuevos retos. \nMe apasiona aprender de mis compañeros y compartir mis conocimientos, además soy un aferrimo defensor de las metodologías ágiles por lo que aportan tanto a los proyectos como a las personas que forman los equipos. \nDurante mi carrera he trabajado tanto en grandes empresas como en una empresa más pequeña (que estoy actualmente), pasando por todos los roles que desempeña un programador, de todas estas experiencias he aprendido mucho y me han llevado hasta donde estoy ahora. \nAdemás desde hace un año he podido desarrollar otra de mis pasiones que es compartir mis conocimientos, ya que estoy dando cursos de programación.",
+      "avatar": {
+        "alt": "fotoPerfilpequeña.png",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/29/45f2e0d4-2cfe-4d34-ab09-bec1566f40b5_fotoperfilpequena.png"
+      },
+      "location": {
+        "notes": ""
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/emiliodominguezsanchez/"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Atos"
+        },
+        "roles": [
+          {
+            "name": "Becario. ",
+            "startDate": "2014-10-01",
+            "finishDate": "2015-05-01",
+            "challenges": [
+              {
+                "description": "Programación Java, J2EE, Liferay"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Zemsania Tech Services & Solutions"
+        },
+        "roles": [
+          {
+            "name": "Programador",
+            "startDate": "2015-05-01",
+            "finishDate": "2017-06-01",
+            "challenges": [
+              {
+                "description": "Programación Java, J2EE, Liferay, Javascript, CSS, HTML."
+              }
+            ],
+            "competences": [
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "J2EE",
+                "type": "technology"
+              },
+              {
+                "name": "LifeRay",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Tecnocom"
+        },
+        "roles": [
+          {
+            "name": "Programador",
+            "startDate": "2017-06-01",
+            "finishDate": "2019-02-01",
+            "challenges": [
+              {
+                "description": "Tecnocom"
+              }
+            ],
+            "competences": [
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "Oracle",
+                "type": "technology"
+              },
+              {
+                "name": "Struts",
+                "type": "technology"
+              },
+              {
+                "name": "Jasper Reports",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Rawson BPO"
+        },
+        "roles": [
+          {
+            "name": "Formador Java - Liferay ",
+            "startDate": "2019-03-01",
+            "finishDate": "2019-05-01",
+            "challenges": [
+              {
+                "description": "Se me encargó la tarea de formar a un grupo en las tecnologías Java y Liferay para que saliesen preparados para poder trabajar.\nComo en el grupo tenía gente de diferentes niveles, se comenzó con Java básico, POO, Spring, Hibernate y Base de Datos, para continuar con el CMS Liferay.\n"
+              }
+            ],
+            "competences": [
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "Spring Boot",
+                "type": "technology"
+              },
+              {
+                "name": "LifeRay",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Evelb Técnicas y Sistemas"
+        },
+        "roles": [
+          {
+            "name": " Full Stack Developer",
+            "startDate": "2019-02-01",
+            "finishDate": "2020-10-01",
+            "challenges": [
+              {
+                "description": "Empresa dedicada a producto. En la cual se desarrollan diferentes productos propios."
+              }
+            ],
+            "competences": [
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "Angular2+",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "Apache",
+                "type": "technology"
+              },
+              {
+                "name": "Spring Boot",
+                "type": "technology"
+              },
+              {
+                "name": "Kafka",
+                "type": "technology"
+              },
+              {
+                "name": "Apache Camel",
+                "type": "technology"
+              },
+              {
+                "name": "RxJava",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Cloud Formación TIC"
+        },
+        "roles": [
+          {
+            "name": "Formador Java y Angular",
+            "startDate": "2019-12-01",
+            "finishDate": "2020-09-01",
+            "challenges": [
+              {
+                "description": "Profesor encargado de impartir el curso Programación Backend con JAVA en modalidad telepresencial y el curso Programación Frontend con Angular."
+              }
+            ],
+            "competences": [
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "Angular2+",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Spring Boot",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Freelance"
+        },
+        "roles": [
+          {
+            "name": "Programador Full Stack - Freelance",
+            "startDate": "2020-11-01",
+            "challenges": [
+              {
+                "description": "Programador freelance con producto propio (www.orenpay.com) y en colaboración para otras empresas (Vitar Soluciones, Indra, group cief, grupo más movil etc).\nDurante esta época, he trabajado para varias empresas siempre en periodos cortos e intentando aportar valor desde el primer minuto.  He usado tantas tecnologías que casi es imposible acordarse de todas ellas.\nEn la mayoría la base de los lenguajes siempre ha sido un backend en Java (orientado a microservicios), que es en lo que más estoy especializado, pero he usado muchísimas más tecnologías en el día día."
+              }
+            ],
+            "competences": [
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "Vue",
+                "type": "technology"
+              },
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "Google Cloud",
+                "type": "technology"
+              },
+              {
+                "name": "Spring Boot",
+                "type": "technology"
+              },
+              {
+                "name": "Kafka",
+                "type": "technology"
+              },
+              {
+                "name": "Maven",
+                "type": "technology"
+              },
+              {
+                "name": "Oracle",
+                "type": "technology"
+              },
+              {
+                "name": "RxJava",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "Spanish"
+      },
+      {
+        "name": "English"
+      },
+      {
+        "name": "Galician"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Angular2+",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Maven",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Hibernate",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Oracle",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Ingeniería Tecnica Informática de Sistemas",
+        "startDate": "2008-09-01",
+        "finishDate": "2013-09-01",
+        "institution": {
+          "name": "Universidad de la Coruña",
+          "description": ""
+        }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Máster Ingeniería Informática",
+        "startDate": "2016-01-01",
+        "finishDate": "2018-01-01",
+        "institution": {
+          "name": "Universidat Oberta de Catalunya",
+          "description": ""
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/emiliodominguezsanchez/"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "JAVA",
+          "type": "technology"
+        },
+        {
+          "name": "Spring Boot",
+          "type": "technology"
+        },
+        {
+          "name": "Angular2+",
+          "type": "technology"
+        }
+      ]
+    }
+  }
+}
