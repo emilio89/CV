@@ -8,10 +8,13 @@
     "profile": {
       "name": "Emilio",
       "surnames": "Domínguez Sánchez",
-      "description": "Soy un entusiasta de las nuevas tecnologías, estoy siempre dipuesto a aprender y a afrontar nuevos retos. \nMe apasiona aprender de mis compañeros y compartir mis conocimientos, además soy un defensor de las metodologías ágiles por lo que aportan tanto a los proyectos como a las personas que forman los equipos. \nDurante mi carrera he trabajado tanto en grandes empresas como en una empresa más pequeña, pasando por todos los roles que desempeña un programador, de todas estas experiencias he aprendido mucho y me han llevado hasta donde estoy ahora. \nDesde hace unos años he podido desarrollar otra de mis pasiones que es compartir mis conocimientos, ya que he dado varios cursos de programación.\nActualmente trabajo como programador freelance con todo lo que ello conlleva, muchos proyectos, mucho aprendizaje e intentando dar el máximo para cada empresa que solicita mi ayuda.\nPor último comentar que he intentado emprender un proyecto propio (www.orenpay.com) el cual también me ha llevado a aprender muchísimo tanto de negocios como de desarrollar un producto desde cero.",
+      "description": "I am an enthusiast of new technologies.\n\nI am passionate about learning from my colleagues and sharing my knowledge, I am also a defender of agile methodologies for what they contribute both to projects and to the people who make up the teams.\nDuring my career, I have worked both in large companies and in smaller companies, going through all the roles that a programmer plays, from all these experiences I have learned a lot and they have taken me to where I am today.\nI currently work as a freelance programmer.\nI am working on many projects. I am learning a lot and trying to do my best for each company that requests my help.\nFinally, comment that I have tried to start my own project (www.orenpay.com) which has also led me to learn a lot both about business and about developing a product from scratch.",
       "avatar": {
         "alt": "fotoPerfilpequeña.png",
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/29/45f2e0d4-2cfe-4d34-ab09-bec1566f40b5_fotoperfilpequena.png"
+      },
+      "location": {
+        "notes": "Santiago de Compostela"
       }
     },
     "relevantLinks": [
